@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>require</title>
+</head>
+<body>
+    <span id="haha">happy</span>
+    <!--require使用_begin-->
+        <script src="require/require.js"></script>
+        <script type="text/javascript">
+//            载入调用页面
+            require(["js/define/sub","js/lib/canvas"],function(){
+                alert("load finished");//加载完成回调
+            });
+//            requirejs(["js/define/sub","js/lib/canvas"]);
+        </script>
+    <!--require使用_end-->
+    <!--data-main形式使用调用，使用config _begin-->
+        <!--<script data-main="js/config.js" src="require/require.js"></script>-->
+    <!--data-main形式使用调用，使用config _end-->
+</body>
+</html>
