@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec21aead-cda0-413d-a906-e9675dc93775" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/理解.md" afterPath="$PROJECT_DIR$/理解.md" />
     </list>
     <ignored path="study_require.iws" />
@@ -49,8 +48,8 @@
       <file leaf-file-name="理解.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/理解.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="32" column="64" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+            <state relative-caret-position="-252">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -257,12 +256,12 @@
       <updated>1487741925569</updated>
       <workItem from="1487741927232" duration="8165000" />
       <workItem from="1487813427857" duration="5936000" />
-      <workItem from="1487819900566" duration="901000" />
+      <workItem from="1487819900566" duration="1344000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15002000" />
+    <option name="totallyTimeSpent" value="15445000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
@@ -464,8 +463,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/理解.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="32" column="64" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+        <state relative-caret-position="-252">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
           <folding />
         </state>
       </provider>
